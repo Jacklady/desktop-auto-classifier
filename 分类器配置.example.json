@@ -1,0 +1,6 @@
+{
+  "base_url": "https://api.deepseek.com",
+  "api_key": "sk-xxxxxxxxxxxxxxxxxxxx",
+  "model": "deepseek-chat",
+  "ai_enabled": true
+}

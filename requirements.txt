@@ -1,0 +1,2 @@
+# 本项目零第三方依赖：纯 Python 标准库（tkinter 为 Windows 官方安装包自带）。
+# 打包 exe 时才需要：pip install pyinstaller
